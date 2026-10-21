@@ -1,1 +1,1 @@
-Fine tuning LLMS,SLMS etc. in this repo
+Fine tuned llama3.2 with 1 billion parameter(partially ig)
